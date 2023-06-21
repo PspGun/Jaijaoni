@@ -1,6 +1,8 @@
-# jaijaoni
-
+# jaijaoni 
 An application that helps you manage and pay your debt easier
+
+## [Jaijaoniweb](https://jaijaoni.pspgun.com/)
+Please allow the notification during using
 
 ## Setting up
 ### Prerequisite
